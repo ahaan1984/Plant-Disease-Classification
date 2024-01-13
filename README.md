@@ -1,4 +1,4 @@
-# Plant Disease Classification using ResNet34 Architecture
+# Plant Disease Classification
 
 ## Overview
 
